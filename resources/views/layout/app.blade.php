@@ -1,0 +1,1 @@
+In here we can place our repeated code and use Extend, Yield, Section, EndSection provided by laravel
